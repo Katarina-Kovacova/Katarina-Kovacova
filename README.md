@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there and welcome to my GitHub page! 👋
 
-<!--
-**Katarina-Kovacova/Katarina-Kovacova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am at the start of my coding journey, figuring out languages and what fun things can be done with them! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on deepening my knowledge of Python 🐍
+- 🌱 I’m currently learning HTML, CSS 🌍
+- 💬 Ask me about anything you would like to know 💡 
+- 📫 How to reach me: https://www.linkedin.com/in/katarina-kovacova-b56382132/
+- 😄 Pronouns: she/ her 👧🏻
+- ⚡ Fun fact: I can solve the Rubik's Cube 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can view some of my projects here:
+
+* Weather app ---> [Weather app](https://github.com/Katarina-Kovacova/weather_app_cli)
+* Funny Kanye West quotes ---> [Kanye West quotes](https://github.com/Katarina-Kovacova/kanye_west_quotes)
+* Task manager ---> [Task manager](https://github.com/Katarina-Kovacova/task_manager)
+* Library book search ---> [Library book search](https://github.com/Katarina-Kovacova/Bestsellers-search)
+
+...or pick and choose to view any of my repos ---> [link to all my repos](https://github.com/Katarina-Kovacova?tab=repositories)
+
+I intend to be more creative over the coming months so watch this space for more exciting projects! 😎
+
