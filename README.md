@@ -2,7 +2,7 @@
 
 I am at the start of my coding journey, figuring out languages and what fun things can be done with them! 
 
-- 🔭 I’m currently working on deepening my knowledge of Python 🐍
+- 🔭 I’m currently embarking on a journey to learn JavaScript 
 - 🌱 I’m currently learning HTML, CSS 🌍
 - 💬 Ask me about anything you would like to know 💡 
 - 📫 How to reach me: https://www.linkedin.com/in/katarina-kovacova-b56382132/
